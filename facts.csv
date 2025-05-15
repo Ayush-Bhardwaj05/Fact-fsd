@@ -1,0 +1,6 @@
+id,text,source,category,votesInteresting,votesMindblowing,votesFalse
+1,"The Eiffel Tower can grow over 6 inches during summer.","https://example.com/eiffel","science",12,8,0
+2,"Honey never spoils. Archaeologists found edible honey in ancient Egyptian tombs.","https://example.com/honey","history",30,15,1
+3,"Bananas are berries, but strawberries are not.","https://example.com/banana","science",25,10,2
+4,"Octopuses have three hearts.","https://example.com/octopus","health",18,7,0
+5,"Credit cards were first used in the 1920s.","https://example.com/credit","finance",5,3,1
